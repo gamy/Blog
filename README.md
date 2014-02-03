@@ -1,2 +1,1 @@
-Getrix
-======
+My blog...
